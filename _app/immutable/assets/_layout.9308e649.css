@@ -1,0 +1,13 @@
+header.svelte-cgmmdl{padding:1rem;background:#bada55;display:flex;flex-wrap:wrap;justify-content:space-between}ul.svelte-cgmmdl{margin:0;list-style-type:none;display:flex;gap:1rem}a.svelte-cgmmdl{text-decoration:none;color:inherit}/* /src/lib/styles/style.scss */
+body {
+  margin: 0;
+  background: #eee;
+  color: #333;
+  font-family: sans-serif;
+}
+
+main {
+  padding: 1rem;
+  margin: 2rem auto;
+  max-width: 40rem;
+}
